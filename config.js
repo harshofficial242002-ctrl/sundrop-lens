@@ -35,7 +35,7 @@ var USERS = [
     name: "Harsh Singh",
     function: "E-Commerce",
     role: ROLES.ANALYTICS,
-    passwordHash: "eba564b731dfd5a62aa697fa818430420583beaec2f136a17ea3617bb04418b3"
+    passwordHash: "7885587032686ed9e20b8f2c9895a7370944b16cf3f55d6777fe2d622a96b324"
   },
   {
     email: "example.md@sundropbrands.com",
