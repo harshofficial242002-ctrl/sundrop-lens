@@ -71,6 +71,13 @@ var REPORTS = [
     description: "Primary, Secondary & POB — overview and billing patterns",
     url: "https://app.powerbi.com/view?r=eyJrIjoiNzgxMGZhZDItNWY0MS00YzFiLWJlMzgtNWZjNjNiZWM3OGFiIiwidCI6IjdiMWRlYzJlLTNiNWMtNDA3OC05MjQ0LTc2NDlkZjZiMjFlYiJ9",
     allowedRoles: [ROLES.LEADERSHIP, ROLES.SALES, ROLES.ANALYTICS]
+  },
+  {
+    id: "distribution-tracker",
+    name: "Distribution Tracker",
+    description: "Distribution tracking",
+    url: "https://app.powerbi.com/view?r=eyJrIjoiMGIwYjkwYmMtOWI0Yy00MzZjLThkODAtYmFjNjQ5Y2FiYjNkIiwidCI6IjdiMWRlYzJlLTNiNWMtNDA3OC05MjQ0LTc2NDlkZjZiMjFlYiJ9",
+    allowedRoles: [ROLES.LEADERSHIP, ROLES.SALES, ROLES.MARKETING, ROLES.ANALYTICS]
   }
   // Example of a marketing-only report once it exists:
   // {
