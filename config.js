@@ -73,9 +73,9 @@ var REPORTS = [
     allowedRoles: [ROLES.LEADERSHIP, ROLES.SALES, ROLES.ANALYTICS]
   },
   {
-    id: "distribution-tracker",
-    name: "Distribution Tracker",
-    description: "Distribution tracking",
+    id: "sales-report",
+    name: "Sales Report",
+    description: "Sales report",
     url: "https://app.powerbi.com/view?r=eyJrIjoiMGIwYjkwYmMtOWI0Yy00MzZjLThkODAtYmFjNjQ5Y2FiYjNkIiwidCI6IjdiMWRlYzJlLTNiNWMtNDA3OC05MjQ0LTc2NDlkZjZiMjFlYiJ9",
     allowedRoles: [ROLES.LEADERSHIP, ROLES.SALES, ROLES.MARKETING, ROLES.ANALYTICS]
   }
