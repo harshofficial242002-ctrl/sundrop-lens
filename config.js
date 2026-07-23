@@ -38,6 +38,13 @@ var USERS = [
     passwordHash: "7885587032686ed9e20b8f2c9895a7370944b16cf3f55d6777fe2d622a96b324"
   },
   {
+    email: "dheer.madhusudan@sundropbrands.com",
+    name: "Dheer Madhusudan",
+    function: "Analytics",
+    role: ROLES.ANALYTICS,
+    passwordHash: "1d4e4befe14fbb3f9829fb6249be8ea738dccd1d34977c6bc801658b6bf659d7"
+  },
+  {
     email: "example.md@sundropbrands.com",
     name: "Example MD",
     function: "Leadership",
